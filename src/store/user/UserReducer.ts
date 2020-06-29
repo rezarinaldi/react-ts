@@ -20,7 +20,7 @@ export function userReducer(
     case UserActions.SAVE_USER_MESSAGE:
       return {
         ...prevState,
-        userMessage: (<IUser>action.payload).userMessage,
+        userMessage: (action.payload as IUser).userMessage,
       };
 
     case UserActions.SAVE_FRIENDS:
