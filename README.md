@@ -1,4 +1,4 @@
-🧢 react-ts
+# 🧢 react-ts
 
 ## Available Scripts
 
@@ -18,9 +18,8 @@ You will also see any lint errors in the console.
 
 ## Credit
 
-Medium:
+Article:
 [TypeScript with React Crash Course](https://medium.com/@richardprasad42/typescript-with-react-crash-course-7a81013a8f64)
 by [Richard Prasad](https://medium.com/@richardprasad42)
 
-Github:
-[Medium Article TS Demo](https://github.com/richarddprasad/medium-article-ts-demo)
+[![Medium Article TS Demo](https://github-readme-stats.vercel.app/api/pin?username=richarddprasad&repo=medium-article-ts-demo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=282C34)](https://github.com/richarddprasad/medium-article-ts-demo)
